@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi! I'm Addie.
 
-<!--
-**dorothyaddie/dorothyaddie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
 
-Here are some ideas to get you started:
+🔭 Undergraduate Research Assistant with @SmithCollegeHCV on Human-Computer Interaction (Bayesian Reasoning, Individual Differences, Visualization Literacy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m always eager to learn and chat!
+
+😁 Pronouns: she/her
+
+___
+
+👩🏼‍💻 Check out my most recent projects:
+
+- [Creating GANs](https://github.com/dorothyaddie/Creating-GANs) Still in progress! Goal is to develop and train a GAN to draw right/left dorsal/palm facing hands.
+- [Student Planner](https://github.com/dorothyaddie/Student-Planner) Python app for students to manage their schedules. Used Calendar and Tkinter modules. Allows users to add, delete, remove events based on any day of any year.
